@@ -5,10 +5,10 @@ JC = javac
 	$(JC) $(JFLAGS) $*.java
 
 CLASSES = \
-	readFileIn.java \
+	predictionValidation.java \
 
 
-MAIN = readFileIn 
+MAIN = predictionValidation
 
 default: classes
 

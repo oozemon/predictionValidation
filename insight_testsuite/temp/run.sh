@@ -4,6 +4,5 @@
 #
 #python ./sr	c/prediction-validation.py ./input/window.txt ./input/actual.txt ./input/predicted.txt ./output/comparison.txt
 
-./src
-javac prediction-validation.java
-java prediction-validation
+java predictionValidation.class
+java predictionValidation
