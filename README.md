@@ -3,7 +3,7 @@ USMAN ZAHID
 
 
 #APPROACH:
-The basic approach to this problem consisted of a few basic steps:
+The basic approach to this problem consisted of a few steps:
  
 1.) Parse the incoming data from the actual.txt file and place the values into a LinkedHashMap
 with the <K,V> format where the key was a concatenated value of the time and symbol
